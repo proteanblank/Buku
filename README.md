@@ -112,24 +112,6 @@ Unlisted packagers:
 </p>
 </details>
 
-- [Alpine Linux](https://github.com/alpinelinux/aports/blob/master/testing/buku/APKBUILD) (`apk add buku`)
-- [AUR](https://aur.archlinux.org/packages/buku/) (`yay -S buku`)
-- [Debian](https://packages.debian.org/search?keywords=buku&searchon=names&exact=1) (`apt-get install buku`)
-- [Fedora](https://apps.fedoraproject.org/packages/buku) (`dnf install buku`)
-- [FreeBSD](https://www.freshports.org/www/py-buku/) (`pkg install www/py-buku`)
-- [Gentoo](https://packages.gentoo.org/packages/www-misc/buku) (`emerge buku`)
-- [macOS/Homebrew](http://formulae.brew.sh/formula/buku) (`brew install buku`)
-- [macOS/MacPorts](https://www.macports.org/ports.php?by=name&substr=buku) (`port install buku`)
-- [NixOS](https://github.com/NixOS/nixpkgs/tree/master/pkgs/applications/misc/buku) (`nix-env -i buku`)
-- [OpenBSD](https://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/www/buku/) (`pkg_add buku`)
-- [openSUSE](https://software.opensuse.org/search?q=buku) (`zypper in python3-buku`)
-- [PyPI](https://pypi.python.org/pypi/buku/) (`pip3 install buku`)
-- [Raspbian Testing](https://archive.raspbian.org/raspbian/pool/main/b/buku/) (`apt-get install buku`)
-- [Slackware](http://slackbuilds.org/repository/14.2/desktop/Buku/) (`slackpkg install buku`)
-- [Termux](https://pypi.python.org/pypi/buku/) (`pip3 install buku`)
-- [Ubuntu](https://packages.ubuntu.com/search?keywords=buku&searchon=names&exact=1) (`apt-get install buku`)
-- [Void Linux](https://github.com/voidlinux/void-packages/tree/master/srcpkgs/buku) (`xbps-install -S buku`)
-
 #### Release packages
 
 Auto-generated packages (with only the cli component) for Arch Linux, CentOS, Debian, Fedora, openSUSE Leap and Ubuntu are available with the [latest stable release](https://github.com/jarun/Buku/releases/latest).
